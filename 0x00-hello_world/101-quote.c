@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
- * * main - Entry
+ * main - Entry
  * Return: 1
- * /
+ */
  int main(void)
  {
 	write(l, "and that piece of art is useful\"

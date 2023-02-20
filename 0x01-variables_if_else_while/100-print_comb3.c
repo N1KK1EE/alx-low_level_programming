@@ -6,7 +6,7 @@
  * main = Entry
  * Return: Always 0
  */
-int main(void)
+int main(void)
 
 {
 	int d, p;

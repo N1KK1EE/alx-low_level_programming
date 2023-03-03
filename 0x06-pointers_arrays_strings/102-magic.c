@@ -10,7 +10,6 @@
  */
 *(p + 5) = 98;
   /* ...so that this prints 98\n */
-
 int main(void)
 {
 	int n;
